@@ -1,0 +1,15 @@
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/bin/Debug/net7.0/Sem1_Adel
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/bin/Debug/net7.0/Sem1_Adel.deps.json
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/bin/Debug/net7.0/Sem1_Adel.runtimeconfig.json
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/bin/Debug/net7.0/Sem1_Adel.dll
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/bin/Debug/net7.0/Sem1_Adel.pdb
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/obj/Debug/net7.0/Sem1_Adel.csproj.AssemblyReference.cache
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/obj/Debug/net7.0/Sem1_Adel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/obj/Debug/net7.0/Sem1_Adel.AssemblyInfoInputs.cache
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/obj/Debug/net7.0/Sem1_Adel.AssemblyInfo.cs
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/obj/Debug/net7.0/Sem1_Adel.csproj.CoreCompileInputs.cache
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/obj/Debug/net7.0/Sem1_Adel.dll
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/obj/Debug/net7.0/refint/Sem1_Adel.dll
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/obj/Debug/net7.0/Sem1_Adel.pdb
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/obj/Debug/net7.0/Sem1_Adel.genruntimeconfig.cache
+/Users/macbook/.yandex.disk/667333140/Yandex.Disk.localized/repo/KisyA/GB_c#/Sem1_Adel/obj/Debug/net7.0/ref/Sem1_Adel.dll
